@@ -3,6 +3,7 @@
 ---
 
 ## Links 
+GitHub: https://github.com/mcheung008/REACT_Google_Books_Search-week21-hw
 
 ### WORKING APP LOCALHOST
 ![Working app localhost](./client/public/assets/images/googlebooks.png)
