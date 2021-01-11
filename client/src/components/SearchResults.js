@@ -61,7 +61,7 @@ class SearchResults extends Component {
                         <a
                           href={result.link}
                           className="btn btn-info"
-                          target="_blank"
+                          target="_blank" rel="noopener noreferrer"
                         >
                           View
                         </a>
