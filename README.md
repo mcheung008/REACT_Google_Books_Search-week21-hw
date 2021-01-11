@@ -2,7 +2,22 @@
 
 ---
 
-## _Links_
+## Links 
+
+### WORKING APP LOCALHOST
+![Working app localhost](./client/public/assets/images/googlebooks.png)
+
+### ERRORS
+![heroku push error](./client/public/assets/images/herokuerror.png)
+
+![mlab discontinued](./client/public/assets/images/mlabdiscontinued.png)
+
+![nomlab](./client/public/assets/images/nomlab.png)
+
+![objectrocket](./client/public/assets/images/objectrocket.png)
+
+![objectpaid](./client/public/assets/images/objectpaid.png)
+
 
 
 ---
